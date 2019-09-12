@@ -8,6 +8,7 @@ public class ArrayP {
 		emp.add("srr");
 		emp.add(123);
 		emp.add("lov");
+		emp.add("manasaaaa");
 		System.out.println(emp);
 		emp.set(0, "syy");
 		System.out.println("After replace");
